@@ -49,7 +49,7 @@ pull_request_rules:
       dismiss_reviews:
         changes_requested: true
 queue_rules:
-  - name: "88888"
+  - name: sol wrap 
 scopes:
   source:
     files: {}
