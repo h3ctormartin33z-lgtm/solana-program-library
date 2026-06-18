@@ -17,6 +17,7 @@
     "@babel/eslint-parser": "^7.2.0",
     "@docusaurus/core": "^3.0.0",
     "@docusaurus/preset-classic": "^3.0.0",
+    "@vercel/analytics": "^2.0.1",
     "autocomplete.js": "^0.38.1",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^3.3.0",
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "shelljs": "^0.10.0"
   }
 }
